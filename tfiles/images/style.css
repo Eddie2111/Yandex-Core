@@ -1,0 +1,39 @@
+ body {
+  
+  background colour: #FFF8DC
+  colour: corn silk;
+  text align:CENTRE
+}
+
+#container {
+     background colour:blue;
+  width: 800px;
+ margin-left:auto;
+ margin-right:auto;
+}
+
+#header  {
+    background-colour: #5F9EA0 
+    colour: Cadet blue;
+     text align:centre
+}
+
+#content {
+    padding: 10px;
+}      
+
+#nav {
+    width:200PX ;
+    float: left;
+}
+
+#main {
+     width: 600px ;
+     float: right
+
+#footer {
+     backgroud colour:#ff0000;
+     colour: red;
+     Text allign:centre
+     Font: Tahoma;
+}

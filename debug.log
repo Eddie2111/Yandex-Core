@@ -1,0 +1,103 @@
+<div id="card">
+<div id="faces"><img class="pro" src="./timages/images011.jpg"></div>
+<div id="backs">The Deer Face<br><br> Elastic Fabric <br> ></div>
+</DIV>
+<div id="card">
+<div id="faces"><img class="pro" src="./timages/images012.jpg"></div>
+<div id="backs">Elgant Huntress. Signature NEON edition <br> <br> Cost:650$</div>
+</DIV>
+<div id="card">
+<div id="faces"><img class="pro" src="./timages/images013.jpg"></div>
+<div id="backs"><br><br>Mavis The Dracula Girl. <br> <br> Medium Size <br> <br> Short Size <br> <br> Cost:350$</div>
+</DIV>
+<div id="card">
+<div id="faces"><img class="pro" src="./timages/images014.jpg"></div>
+<div id="backs">Pinky Rabbit Skin<br> <br> Exportable Edition <br> <br> cost:600$</div>
+</DIV>
+<div id="card">
+<div id="faces"><img class="pro" src="./timages/images015.jpg"></div>
+<div id="backs"><br> <br>Hello Kitty Swinger Shirt.<br><br> Limited Edition <br><br> small size <br><br> cost:550$ <br></div>
+</div>
+
+
+
+<div id="card">
+<div id="faces"><img class="pro" src="./timages/images016.jpg"></div>
+<div id="backs"> <br><br>Feminist ICON<br><br> Antique Edition<br><br> cost:350$</div></DIV> 
+</DIV>
+<div id="card">
+<div id="faces"><img class="pro" src="./timages/images010.jpg"></div>
+<div id="backs">No Hipster <br> <br> Medium Size <br> <br> Short Size <br> <br> Cost:350$</div>
+</DIV>
+<div id="card">
+<div id="faces"><img class="pro" src="./timages/images018.jpg"></div>
+<div id="backs"><br><br>Bubiies Nickolodeon<br> <br> Exportable Edition <br> <br> cost:600$</div>
+</DIV>
+<div id="card">
+<div id="faces"><img class="pro" src="./timages/images019.jpg"></div>
+<div id="backs">Little one and Mom<br><br> Limited Edition <br><br> Large & small size <br><br> Buy one get one <br><br> cost:550$ <br></div>
+</DIV>
+<div id="card">
+<div id="faces"><img class="pro" src="./timages/images020.jpg"></div>
+<div id="backs">Reddish Rabit Skin<br><br> Antique Edition<br><br> cost:350$</div></DIV>
+</div>
+[1107/140154.785:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1107/140154.785:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1107/140154.785:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1107/140312.936:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1107/140312.952:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1107/140312.952:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1107/140550.279:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1107/140550.279:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1107/140550.279:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1107/140636.467:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1107/140636.467:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1107/140636.467:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1107/140828.263:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1107/140828.263:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1107/140828.263:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1107/174217.244:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1107/174217.260:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1107/174217.260:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1107/174223.780:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1107/174223.780:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1107/174223.780:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1107/174227.491:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1107/174227.491:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1107/174227.491:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1107/174244.748:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1107/174244.748:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1107/174244.748:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1108/191638.667:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1108/191638.677:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1108/191638.677:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1112/113711.008:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1112/113711.008:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1112/113711.008:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1112/114418.395:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1112/114418.395:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1112/114418.395:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1112/124020.389:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1112/124020.389:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1112/124020.389:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1112/124156.527:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1112/124156.537:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1112/124156.537:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1112/124620.687:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1112/124620.687:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1112/124620.687:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1115/010859.649:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1115/010859.665:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1115/010859.665:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1115/010906.559:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1115/010906.575:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1115/010906.575:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1115/010909.304:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1115/010909.304:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1115/010909.319:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1115/010916.852:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1115/010916.852:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1115/010916.852:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1116/113930.937:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)
+[1116/113930.999:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1116/113930.999:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\temp\settings.dat: Access is denied. (0x5)

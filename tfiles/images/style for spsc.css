@@ -1,0 +1,13 @@
+body {
+
+text allign:centre
+font color:white
+border right:5PX left:5px up:5px down:5px
+border color: black
+}
+
+#nav {
+    width:200PX ;
+    float: left;
+}
+
